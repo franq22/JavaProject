@@ -1,0 +1,6 @@
+/bin
+/.settings
+/.idea
+/target
+*.dat
+*.iml
